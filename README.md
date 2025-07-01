@@ -1,10 +1,10 @@
 <img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/f24bb623-c9a7-4f60-b225-c4decda88e41">
 
 ## About Us
-NovaTech Electronics is a premier global e-commerce retailer specializing in high-demand consumer electronics and accessories. Since our launch in late 2018, we have quickly emerged as an industry leader by providing customers worldwide with a seamless and secure shopping experience through our intuitive website and user-friendly mobile app. We proudly offer a selection of the latest electronic products from prestigious brands like Apple, Samsung, and ThinkPad. Leveraging advanced data analytics, targeted email marketing, sophisticated SEO strategies, and thoughtfully curated affiliate partnerships, we cultivate and sustain a loyal global customer base.
+Tech-E-Suite Electronics is a premier global e-commerce retailer specializing in high-demand consumer electronics and accessories. Since our launch in late 2018, we have quickly emerged as an industry leader by providing customers worldwide with a seamless and secure shopping experience through our intuitive website and user-friendly mobile app. We proudly offer a selection of the latest electronic products from prestigious brands like Apple, Samsung, and ThinkPad. Leveraging advanced data analytics, targeted email marketing, sophisticated SEO strategies, and thoughtfully curated affiliate partnerships, we cultivate and sustain a loyal global customer base.
 
 ## Business Request
-The leadership team requested an analysis to support an upcoming company-wide town hall, seeking insights into 2019-2022 order trends. The analysis categorizes findings into **pre-pandemic (2019)**, **peak-pandemic (2020)**, and **post-pandemic (2021-2022)** consumer purchasing behaviors and market shifts. Examining these trends in the context of these distinct periods will enable NovaTech to strategically target revenue growth, enhance customer retention, optimize the loyalty program, reduce refund-related costs, anticipate future market conditions, and effectively adapt to evolving consumer preferences as the market normalizes.
+The leadership team requested an analysis to support an upcoming company-wide town hall, seeking insights into 2019-2022 order trends. The analysis categorizes findings into **pre-pandemic (2019)**, **peak-pandemic (2020)**, and **post-pandemic (2021-2022)** consumer purchasing behaviors and market shifts. Examining these trends in the context of these distinct periods will enable Tech-E-Suite to strategically target revenue growth, enhance customer retention, optimize the loyalty program, reduce refund-related costs, anticipate future market conditions, and effectively adapt to evolving consumer preferences as the market normalizes.
 Specifically, the analysis addresses:
 - **Revenue and growth trends**: Yearly and monthly trends in revenue, average order value (AOV), and order volumes.
 - **Product and regional segmentation**: Evaluation of market-specific dynamics and identification of top-performing products.
@@ -18,11 +18,11 @@ Specifically, the analysis addresses:
 
 # Executive Summary
 ## Overview
-Between **2019 and 2022**, NovaTech Electronics generated approximately **$28M in total revenue** from over **108K orders**, with an **Average Order Value (AOV)** of **$260**. To understand performance dynamics and extract actionable insights, this analysis segments the timeline into three key periods:
+Between **2019 and 2022**, Tech-E-Suite Electronics generated approximately **$28M in total revenue** from over **108K orders**, with an **Average Order Value (AOV)** of **$260**. To understand performance dynamics and extract actionable insights, this analysis segments the timeline into three key periods:
 - **Pre-pandemic (2019)**: Serves as a baseline for normal customer behavior and operational performance.
 - **Peak-pandemic (2020)**: Captures pandemic-driven shifts in digital purchasing and demand spikes.
 - **Post-pandemic (2021-2022)**: Reflects market normalization.
-Exploring trends across these periods allows NovaTech to distinguish between **temporary spikes and sustainable growth patterns**, identify when and why customer behaviors changed, and evaluate the **lasting impacts of pandemic-driven shifts**. The temporal lens is critical for:
+Exploring trends across these periods allows Tech-E-Suite to distinguish between **temporary spikes and sustainable growth patterns**, identify when and why customer behaviors changed, and evaluate the **lasting impacts of pandemic-driven shifts**. The temporal lens is critical for:
 - Identifying which gains to protect (e.g., loyalty adoption)
 - Highlighting risk factors (e.g., sharp AOV declines)
 - Pinpointing product categories or customer segments that responded differently during volatile versus stable conditions.
@@ -33,7 +33,7 @@ Understanding these pandemic-driven inflection points supports smarter planning 
 
 # Deep-Dive Insights
 ## Revenue and Growth Trends
-- **Yearly summary**: From 2019 to 2022, NovaTech averaged around **$7M** in revenue per year from **27K** orders, with an **AOV of $260** per year. The peak-pandemic year, 2020, experienced exceptional growth, with the highest annual revenue (**$10M**) and AOV (**$300**), significantly above pre-pandemic 2019 (**$4M revenue, 17K orders, AOV $230**). While the number of orders peaked in 2021 (**36K**), revenue declined to **$9M** driven by lower AOV (**$255**). By 2022 revenue (**$5M**), orders (**22K**), and AOV (**$230**) returned closer to pre-pandemic levels.
+- **Yearly summary**: From 2019 to 2022, Tech-E-Suite averaged around **$7M** in revenue per year from **27K** orders, with an **AOV of $260** per year. The peak-pandemic year, 2020, experienced exceptional growth, with the highest annual revenue (**$10M**) and AOV (**$300**), significantly above pre-pandemic 2019 (**$4M revenue, 17K orders, AOV $230**). While the number of orders peaked in 2021 (**36K**), revenue declined to **$9M** driven by lower AOV (**$255**). By 2022 revenue (**$5M**), orders (**22K**), and AOV (**$230**) returned closer to pre-pandemic levels.
 - **Growth rates**: Peak-pandemic conditions in 2020 showed extraordinary increases (**+163% revenue, +101% orders, +31% AOV** YoY). However, post-pandemic performance was mixed, with modest order growth in 2021 (**+6%**) but decreasing revenue (**-10%**) due to lower AOV (**-15%**). By 2022, significant declines across all metrics (**-46% revenue, -40% orders, -10% AOV**) occurred, reflecting market normalization.
 
 ### Seasonal Patterns
