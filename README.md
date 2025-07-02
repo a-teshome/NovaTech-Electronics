@@ -5,35 +5,28 @@ Tech-E-Suite Electronics is a global leader in eccomerce, specializing in premiu
 > **Where possible, include data analyst lingo**
 
 ## Stakeholder Request
-The leadership team requested an analysis to support an upcoming company-wide town hall, seeking insights into business performance from 2019 through 2022. Specifically, this analysis addresses:
-- **Revenue and growth trends**: Evaluating yearly and monthly trends in revenue, average order value (AOV), and order volumes.
-- **Loyalty program performance**: Reviewing adoption rates, contributions to revenue and order volumes, and overall effectiveness during recent company downturn
-- **Refunds and product performance**: Assessing refund trends and AOV across product lines, with a special focus on Apple products.
+The leadership team requested this analysis ahead of an upcoming company-wide town hall. They seek insights into key business performance indicators from 2019 through 2022. Specifically, this analysis addresses:
+- **Revenue and growth trends**: Evaluating yearly and monthly performance in revenue, average order value (AOV), and order volumes.
+- **Loyalty program performance**: Reviewing adoption, revenue impact, and program effectiveness during recent company downturn.
+- **Refunds and product performance**: Assessing refund rates and AOV across product lines, with a focus on Apple products.
 > **Start with percent of refunds that apple products make up**
 
 # Executive Summary: Ecommerce Performance Analysis (2019-2022)
 ## Overview of Findings
-This analysis examined four years (2019-2022) of transactional data, highlighting significant fluctuations in Tech-E-Suite's business performance. Across the full period, Tech-E-Suite generated **$28M in total revenue** from over **108K orders***, averaging an **AOV of $260**. Revenue, orders, and AOV saw significant YoY variability, reflecting notable shifts in consumer behavior and market conditions, particularly the pandemic-driven extraordinary spike of 2020 and the market normalization of 2022.
-Our **loyalty program evolved into a core contributor** surpassing non-loyalty performance metrics and significantly enhancing customer value from mid-2021 onwards. Operational initiatives resulted in substantial improvement in refund rates, dropping dramatically by 2022.
+This analysis examined four years (2019-2022) of transactional data, highlighting significant fluctuations in Tech-E-Suite's business performance. Across the full period, our business generated **$28M in total revenue** from over **108K orders**, averaging an **AOV of $260**. Revenue, orders, and AOV saw significant YoY variability, reflecting notable shifts in consumer behavior and market conditions, particularly the pandemic-driven extraordinary spike of 2020 and the market normalization by 2022.
+Our **loyalty program evolved into a core contributor** surpassing non-loyalty performance metrics and significantly enhancing customer value from mid-2021 onwards. Operational initiatives resulted in **substantial reduction in refunds**, with refunds notably absent in 2022 - though this could indicate potential data collection issues or other anomalies warranting further validation.
 > **Mention that we need to confirm whether there are some missing data here**
 > 
-Overall Tesh-E-Suite demonstrated adaptability and resilience during volatile market conditions.Moving forward, strategic optimization of the loyalty program, targeted product promotions, and operational improvements remail critical levers for achieving sustainable growth and profitability.
+Overall Tesh-E-Suite demonstrated adaptability and resilience during volatile market conditions. Moving forward, strategic optimization of the loyalty program, targeted product promotions, and ongoing operational improvements remain critical levers for achieving sustainable growth and profitability.
 
 > **Add how understanding the findings of this analysis will help the company
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/ac80a349-b741-43c2-9eda-9bc147dab9b9" />
 
 # Deep-Dive Insights
-## 1. Overall Trends in Sales
-Tech-E-Suite generated **$28M in total revenue** from over **108K orders**, with an average **AOV of $260** over the four year period.
-- **2020 revenue surged to **$10M**, a +163% YoY increase, with order volume doubling to **33,851**.
-- **2021 was volume-heavy but value-light**, with 35K orders (the highest across al years) but lower revenue than 2022 related to a **15% drop in AOV**.
-- **2022 saw sales fall 46% YoY**, as AOV returned to **$230** (same as in 2019), and total orders dropped to **22K**.
-
-## 2. Growth Rates (Yearly & Monthly)
-Revenue and Growth Trends
-- **Yearly summary**: From 2019 to 2022, Tech-E-Suite averaged around **$7M** in revenue per year from **27K** orders, with an **AOV of $260** per year. The peak-pandemic year, 2020, experienced exceptional growth, with the highest annual revenue (**$10M**) and AOV (**$300**), significantly above pre-pandemic 2019 (**$4M revenue, 17K orders, AOV $230**). While the number of orders peaked in 2021 (**36K**), revenue declined to **$9M** driven by lower AOV (**$255**). By 2022 revenue (**$5M**), orders (**22K**), and AOV (**$230**) returned closer to pre-pandemic levels.
-- **Growth rates**: Peak-pandemic conditions in 2020 showed extraordinary increases (**+163% revenue, +101% orders, +31% AOV** YoY). However, post-pandemic performance was mixed, with modest order growth in 2021 (**+6%**) but decreasing revenue (**-10%**) due to lower AOV (**-15%**). By 2022, significant declines across all metrics (**-46% revenue, -40% orders, -10% AOV**) occurred, reflecting market normalization.
+## 1. Sales Trends & Growth Rates
+- **Yearly Trends & Growth Rates**: From  2019 to 2022, Tech-E-Suite averaged approximately **7M annually** from **27K orders per year**, with an **average yearly AOV of $260**. The peak-pandemic year, 2020, showed exceptional growth, achieving highs across key metrics (**Revenue: $10M (+163% YoY), Orders: 34K (+101% YoY), AOV: $300 (+31% YoY)**), significantly above 2019 baseline (**Revenue: $4M, Orders: 17K, AOV: $230**). In 2021, order volume reached its peak (**36K (+6% YoY)**), yet revenue dropped to **$9M (-10% YoY)**, driven by lower AOV (**$255 (-10% YoY)**). By 2022, a notable market normalization occured, marked by declines across all metrics (**Revenue: $5M (-46% YoY), Orders: 22K (-40% YoY), AOV: $230 (-10% YoY)**), bringing performance closer to 2019 baseline.
+- **Monthly Trends & Growth Rates**: **March 2020** stood out, recording exceptional MOM growth (
 
 ### Seasonal Patterns
 - **Peak periods**: December generated the highest monthly sales per year from 2019 to 2021, peaking in 2020 (**$1M for 4K orders, AOV $311**) except in 2022 when January emerged as the strongest sales month with almost 3x the revenue and more than double the Dec 2022 orders and a similar AOV across both months.
