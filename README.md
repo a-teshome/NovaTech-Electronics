@@ -1,27 +1,24 @@
 <img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/f24bb623-c9a7-4f60-b225-c4decda88e41">
 
 ## About Us
-Tech-E-Suite Electronics is a global ecommerce leader specializing in premium consumer electronics and accessories. Since our launch in late 2018, we have built a loyal international customer base through a seamless and secure digital shopping experience and a curated catalog of top brands like Apple, Samsung, and ThinkPad. Our rapir growth has been fueled by data-driven decision-making, targeted email marketing, SEO strategy, and affiliate partnerships.
+Tech-E-Suite Electronics is a global leader in eccomerce, specializing in premium consumer electronics and accessories. Since our launch in late 2018, we have built a loyal international customer base through a intuitive digital shopping experience through our websire and mobile app, and a curated catalog of premier products from top brands like Apple, Samsung, and ThinkPad. Our success is fueled by sophisticated data analytics, targeted marketing strategies, effective SEO, and affiliate partnerships.
 > **Where possible, include data analyst lingo**
 
 ## Stakeholder Request
-The leadership team requested an analysis to support an upcoming company-wide town hall, seeking insights into 2019-2022 order trends. 
-Specifically, the analysis addresses:
-- **Revenue and growth trends**: Yearly and monthly performance of sales revenue, average order value (AOV), and order volume.
-- **Loyalty program evaluation**: Review of adoption, contribution to revenue and order volume, and performance during the recent market downturn.
-- **Refunds and product performance**: Trends in refunds and AOV across all product lines, with a specific focus on Apple products.
+The leadership team requested an analysis to support an upcoming company-wide town hall, seeking insights into business performance from 2019 through 2022. Specifically, this analysis addresses:
+- **Revenue and growth trends**: Evaluating yearly and monthly trends in revenue, average order value (AOV), and order volumes.
+- **Loyalty program performance**: Reviewing adoption rates, contributions to revenue and order volumes, and overall effectiveness during recent company downturn
+- **Refunds and product performance**: Assessing refund trends and AOV across product lines, with a special focus on Apple products.
+> **Start with percent of refunds that apple products make up**
 
 # Executive Summary: Ecommerce Performance Analysis (2019-2022)
-## Overview of analysis
-The analysis focused on ecommerce performance between **2019 and 2022** to assess revenue growth, loyalty program maturity, and operational efficiency. Key findings include:
-- **2020 was a breakout year**, with sales growing **163%** YoY, driven by pandemic-driven demand.
-- **2021 was atypical**, showing strong order volume but declining AOV, reflecting stimulus effects and lockdown behavior
-> **(expound on how or why this link was determined)**.
-- **2022 marked a contraction**, with revenue falling **46%** YoY and order volume down **40%**.
-- The **loyalty program now drives over 50% of all revenue**, and from mid-2021 through most of 2022, **loyalty AOV exceeded non-loyalty AOV in 14 of 18 months**.
-> **by how much on average did it exceed non-loyalty aov**
-- **Refund rates have improved dramatically**, falling to zero in 2022. Apple AirPods drove the highest refund counts, while premium Apple products (e.g., iPhone) had high AOV and minimal returns.
+## Overview of Findings
+This analysis examined four years (2019-2022) of transactional data, highlighting significant fluctuations in Tech-E-Suite's business performance. Across the full period, Tech-E-Suite generated **$28M in total revenue** from over **108K orders***, averaging an **AOV of $260**. Revenue, orders, and AOV saw significant YoY variability, reflecting notable shifts in consumer behavior and market conditions, particularly the pandemic-driven extraordinary spike of 2020 and the market normalization of 2022.
+Our **loyalty program evolved into a core contributor** surpassing non-loyalty performance metrics and significantly enhancing customer value from mid-2021 onwards. Operational initiatives resulted in substantial improvement in refund rates, dropping dramatically by 2022.
 > **Mention that we need to confirm whether there are some missing data here**
+> 
+Overall Tesh-E-Suite demonstrated adaptability and resilience during volatile market conditions.Moving forward, strategic optimization of the loyalty program, targeted product promotions, and operational improvements remail critical levers for achieving sustainable growth and profitability.
+
 > **Add how understanding the findings of this analysis will help the company
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/ac80a349-b741-43c2-9eda-9bc147dab9b9" />
