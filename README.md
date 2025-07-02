@@ -1,38 +1,40 @@
 <img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/f24bb623-c9a7-4f60-b225-c4decda88e41">
 
 ## About Us
-Tech-E-Suite Electronics is a premier global e-commerce retailer specializing in high-demand consumer electronics and accessories. Since our launch in late 2018, we have quickly emerged as an industry leader by providing customers worldwide with a seamless and secure shopping experience through our intuitive website and user-friendly mobile app. We proudly offer a selection of the latest electronic products from prestigious brands like Apple, Samsung, and ThinkPad. Leveraging advanced data analytics, targeted email marketing, sophisticated SEO strategies, and thoughtfully curated affiliate partnerships, we cultivate and sustain a loyal global customer base.
+Tech-E-Suite Electronics is a global ecommerce leader specializing in premium consumer electronics and accessories. Since our launch in late 2018, we have built a loyal international customer base through a seamless and secure digital shopping experience and a curated catalog of top brands like Apple, Samsung, and ThinkPad. Our rapir growth has been fueled by data-driven decision-making, targeted email marketing, SEO strategy, and affiliate partnerships.
+> **Where possible, include data analyst lingo**
 
-## Business Request
-The leadership team requested an analysis to support an upcoming company-wide town hall, seeking insights into 2019-2022 order trends. The analysis categorizes findings into **pre-pandemic (2019)**, **peak-pandemic (2020)**, and **post-pandemic (2021-2022)** consumer purchasing behaviors and market shifts. Examining these trends in the context of these distinct periods will enable Tech-E-Suite to strategically target revenue growth, enhance customer retention, optimize the loyalty program, reduce refund-related costs, anticipate future market conditions, and effectively adapt to evolving consumer preferences as the market normalizes.
+## Stakeholder Request
+The leadership team requested an analysis to support an upcoming company-wide town hall, seeking insights into 2019-2022 order trends. 
 Specifically, the analysis addresses:
-- **Revenue and growth trends**: Yearly and monthly trends in revenue, average order value (AOV), and order volumes.
-- **Product and regional segmentation**: Evaluation of market-specific dynamics and identification of top-performing products.
-- **Loyalty program evaluation**: Review of adoption, impacts on revenue, and performance during recent company downturn.
-- **Refunds**: Examined at the product-level, with a particular focus on Apple products.
-  
-> Specifically, the analysis should address (from requirements gathering):
-> - Overall sales trends evaluation: Measured by monthly and yearly growth rates in sales revenue, average order value (AOV), and order counts.
-> - Product and regional performance analysis: Identifies market-specific trends and key product performance dynamics.
-> - Loyalty program performance evaluation: Measured by sales, order counts, and AOV.
+- **Revenue and growth trends**: Yearly and monthly performance of sales revenue, average order value (AOV), and order volume.
+- **Loyalty program evaluation**: Review of adoption, contribution to revenue and order volume, and performance during the recent market downturn.
+- **Refunds and product performance**: Trends in refunds and AOV across all product lines, with a specific focus on Apple products.
 
-# Executive Summary
-## Overview
-Between **2019 and 2022**, Tech-E-Suite Electronics generated approximately **$28M in total revenue** from over **108K orders**, with an **Average Order Value (AOV)** of **$260**. To understand performance dynamics and extract actionable insights, this analysis segments the timeline into three key periods:
-- **Pre-pandemic (2019)**: Serves as a baseline for normal customer behavior and operational performance.
-- **Peak-pandemic (2020)**: Captures pandemic-driven shifts in digital purchasing and demand spikes.
-- **Post-pandemic (2021-2022)**: Reflects market normalization.
-Exploring trends across these periods allows Tech-E-Suite to distinguish between **temporary spikes and sustainable growth patterns**, identify when and why customer behaviors changed, and evaluate the **lasting impacts of pandemic-driven shifts**. The temporal lens is critical for:
-- Identifying which gains to protect (e.g., loyalty adoption)
-- Highlighting risk factors (e.g., sharp AOV declines)
-- Pinpointing product categories or customer segments that responded differently during volatile versus stable conditions.
-
-Understanding these pandemic-driven inflection points supports smarter planning for pricing strategies, inventory optimization, and customer retention in a post-pandemic digital retail environment.
+# Executive Summary: Ecommerce Performance Analysis (2019-2022)
+## Overview of analysis
+The analysis focused on ecommerce performance between **2019 and 2022** to assess revenue growth, loyalty program maturity, and operational efficiency. Key findings include:
+- **2020 was a breakout year**, with sales growing **163%** YoY, driven by pandemic-driven demand.
+- **2021 was atypical**, showing strong order volume but declining AOV, reflecting stimulus effects and lockdown behavior
+> **(expound on how or why this link was determined)**.
+- **2022 marked a contraction**, with revenue falling **46%** YoY and order volume down **40%**.
+- The **loyalty program now drives over 50% of all revenue**, and from mid-2021 through most of 2022, **loyalty AOV exceeded non-loyalty AOV in 14 of 18 months**.
+> **by how much on average did it exceed non-loyalty aov**
+- **Refund rates have improved dramatically**, falling to zero in 2022. Apple AirPods drove the highest refund counts, while premium Apple products (e.g., iPhone) had high AOV and minimal returns.
+> **Mention that we need to confirm whether there are some missing data here**
+> **Add how understanding the findings of this analysis will help the company
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/ac80a349-b741-43c2-9eda-9bc147dab9b9" />
 
 # Deep-Dive Insights
-## Revenue and Growth Trends
+## 1. Overall Trends in Sales
+Tech-E-Suite generated **$28M in total revenue** from over **108K orders**, with an average **AOV of $260** over the four year period.
+- **2020 revenue surged to **$10M**, a +163% YoY increase, with order volume doubling to **33,851**.
+- **2021 was volume-heavy but value-light**, with 35K orders (the highest across al years) but lower revenue than 2022 related to a **15% drop in AOV**.
+- **2022 saw sales fall 46% YoY**, as AOV returned to **$230** (same as in 2019), and total orders dropped to **22K**.
+
+## 2. Growth Rates (Yearly & Monthly)
+Revenue and Growth Trends
 - **Yearly summary**: From 2019 to 2022, Tech-E-Suite averaged around **$7M** in revenue per year from **27K** orders, with an **AOV of $260** per year. The peak-pandemic year, 2020, experienced exceptional growth, with the highest annual revenue (**$10M**) and AOV (**$300**), significantly above pre-pandemic 2019 (**$4M revenue, 17K orders, AOV $230**). While the number of orders peaked in 2021 (**36K**), revenue declined to **$9M** driven by lower AOV (**$255**). By 2022 revenue (**$5M**), orders (**22K**), and AOV (**$230**) returned closer to pre-pandemic levels.
 - **Growth rates**: Peak-pandemic conditions in 2020 showed extraordinary increases (**+163% revenue, +101% orders, +31% AOV** YoY). However, post-pandemic performance was mixed, with modest order growth in 2021 (**+6%**) but decreasing revenue (**-10%**) due to lower AOV (**-15%**). By 2022, significant declines across all metrics (**-46% revenue, -40% orders, -10% AOV**) occurred, reflecting market normalization.
 
