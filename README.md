@@ -1,14 +1,15 @@
 <img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/f24bb623-c9a7-4f60-b225-c4decda88e41">
 
 ## About Us
-Tech-E-Suite Electronics is a global leader in eccomerce, specializing in premium consumer electronics and accessories. Since our launch in late 2018, we have built a loyal international customer base through a intuitive digital shopping experience through our websire and mobile app, and a curated catalog of premier products from top brands like Apple, Samsung, and ThinkPad. Our success is fueled by sophisticated data analytics, targeted marketing strategies, effective SEO, and affiliate partnerships.
+Tech-E-Suite Electronics is a premier global e-ccomerce retailer, specializing in premium consumer electronics and accessories. Since our launch in late 2018, we've rapidly emerged as an industry leader by providing a seamless, intuitive, and secure shopping experience through our website and mobile app and a curated catalog of products from reputable brands such as Apple, Samsung, and ThinkPad. Our success is fueled by sophisticated data analytics, targeted marketing strategies, effective SEO, and affiliate partnerships.
 > **Where possible, include data analyst lingo**
 
 ## Stakeholder Request
-The leadership team requested this analysis ahead of an upcoming company-wide town hall. They seek insights into key business performance indicators from 2019 through 2022. Specifically, this analysis addresses:
-- **Revenue and growth trends**: Identifying key yearly and monthly trends in revenue, average order value (AOV), and order volumes.
+The leadership team requested this analysisto support an upcoming company-wide town hall, seeking insights into 2019-2022 key sales and performance trends. 
+Specifically, this analysis addresses:
+- **Revenue and growth trends**: Identifying yearly and monthly trends in revenue, average order value (AOV), and order volumes.
 - **Loyalty program evaluation**: Assessing adoption, revenue impacts, and program performance during recent company downturn.
-- **Refunds and product performance**: Examining refund rates, AOV, and product-level performance, with a focus on Apple products.
+- **Refunds and product performance**: Examining refund rates, AOV, and product-level insights, with a special emphasis on Apple products.
 > **Start with percent of refunds that apple products make up**
 
 # Executive Summary: Ecommerce Performance Analysis (2019-2022)
