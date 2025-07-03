@@ -2,7 +2,6 @@
 
 ## About Us
 Tech-E-Suite Electronics is a premier global e-ccomerce retailer, specializing in premium consumer electronics and accessories. Since our launch in late 2018, we've rapidly emerged as an industry leader by providing a seamless, intuitive, and secure shopping experience through our website and mobile app and a curated catalog of products from reputable brands such as Apple, Samsung, and ThinkPad. Our success is fueled by sophisticated data analytics, targeted marketing strategies, effective SEO, and affiliate partnerships.
-> **Where possible, include data analyst lingo**
 
 ## Stakeholder Request
 The leadership team requested this analysisto support an upcoming company-wide town hall, seeking insights into 2019-2022 key sales and performance trends. 
@@ -10,14 +9,12 @@ Specifically, this analysis addresses:
 - **Revenue and growth trends**: Identifying yearly and monthly trends in revenue, average order value (AOV), and order volumes.
 - **Loyalty program evaluation**: Assessing adoption, revenue impacts, and program performance during recent company downturn.
 - **Refunds and product performance**: Examining refund rates, AOV, and product-level insights, with a special emphasis on Apple products.
-> **Start with percent of refunds that apple products make up**
 
 # Executive Summary: Ecommerce Performance Analysis (2019-2022)
 ## Overview of Findings
 From 2019 to 2022, Tech-E-Suite generated **$28M in total revenue** from **over 108K orders**, maintaining an **average AOV of $260**. The 2020 peak-pandemic period significantly boosted sales, driving unprecedented annual performance. Subsequent years reflected market normalization and shifting consumer purchasing behaviors. The loyalty program adoption steadily increased, becoming critical to revenue stabilization, though average loyalty AOV remained lower than non-loyalty.
 Refund analysis revealed significant impacts from Apple products, representing more than half of total refunded revenue and volumen. Refunds peaked notably in 2020 amid heightened pandemic demand, and later stabilize. Of note, the absence of refund data for 2022 suggests data recording gaps requirng investigation. 
 Overall, the analysis highlights Tech-E-Suite's adaptability to market changes, underscoring targeted opportunities in loyalty initiatives, product management, operational enhancements, and strategic marketing.
-> **Add how understanding the findings of this analysis will help the company
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/ac80a349-b741-43c2-9eda-9bc147dab9b9" />
 
@@ -32,16 +29,11 @@ From  2019 to 2022, Tech-E-Suite averaged approximately **7M annually** from **2
 - **Peak Months**: Consistent annual peaks in December, shifting to January in 2022.
 - **Low Months**: Recurrent lower performance in October and February. 
 
-> Strategic Recommendation
-The unusual revenue decline in October 2022 warrants further investigation to pinpoint root causes. A targeted exploration into product mix variations, geographic region impacts, or shifts in marketing effectiveness will yield actionable insights to prevent future performance drops during critical months.
-
 ## Loyalty Program Evaluation
 Initially comprising just **12% of users and orders in 2019**, loyalty adoption grew significantly surpassing non-loyalty share by 2021 (**56% loyalty vs. 44% non-loyalty**). During the peak-pandemic growth of 2020, loyalty customers contributed substantially (**29% of revenue, 38% of orders**), **becoming essential to revenue stability**. In subsequent downturn periods (particularly 2022), loyalty members showed resilience, consistently accounting for a greater proportion of total revenue (**55%**) and orders (**52%**) compared to non-loyalty members. However, throughout the analysis period, loyalty customers averaged slightly lower AOVs (**$240**) compared to non-loyalty (**$275**). Nonetheless, the steady revenue stream provided by loyalty customers, especially during challenging market conditions, validates continued strategic investment in the loyalty program.
 > Add table with monthly values including AOV and refunds for a better comparison.
 
 ## Refund Impact
->> Angie: For refunds and average order value, would like to focus on how these metrics compare across Apple products. Also include number of refunds as a metric.
-
 Refunds represented **5% of total orders** (~ 5K orders) and **8% of total revenue** (~ $2M) from 2019 to 2022. Refund rates peaked significantly in 2020 (**9% orders, 13% revenue**), due the substantial pandemic-driven sales surge, before stabilizing in 2021. Notably, zero refunds were reported for 2022, indicating possible data collection or operational gaps requiring investigation.
 ### By Product
 - **Highest Refund Rate**: High-value laptops (**MacBook Air, ThinkPad**) consistently had the highest refund rates (**~12%**).
@@ -56,13 +48,13 @@ Apple products (**MacBook Air, Apple AirPods**, and **Apple iPhone**) significan
 Given these insights, there is an opportunity to reassess product-specific customer satisfaction, return policies, and quality control processes, particularly for higher-value items.
 
 # Strategic Recommendations
-### **Product Team**
+**Product Team**:
 - Investigate refund drivers and customer dissatisfaction for high refund-rate products (**MacBook Air, ThinkPad laptops**).
-### **Operations Team**
+**Operations Team**:
 - Conduct audits on refund-data collection and reporting processes to determine reasons behing zero-refund records in 2022.
 - Streamline returns handling and customer interaction procedures, especially during peak demand periods, to proactively reduce refund volume and rates.
-### **Marketing Team**
+**Marketing Team**:
 - Strategically enhance loyalty programs to incentivize higher AOVs among loyalty customers through focused product bundles and exclusive promotions.
 - Develop targeted marketing and educational campaigns around high-refund-volume products (**Apple AirPods, Gaming Monitor**) to clearly set customer expectations and improve user satisfaction.
-### **Cross-functional Recommendation**
+**Cross-functional Recommendation**:
 - Conduct a detailed, cross-team investigation into October 2022's substantial performance drop, evaluating product-level sales, regional issues, and marketing effectiveness aiming to identify and mitigate risks ahead of any future challenging periods. 
