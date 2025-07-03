@@ -1,13 +1,16 @@
 <img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/f24bb623-c9a7-4f60-b225-c4decda88e41">
 
 ## About Us
-Tech-E-Suite Electronics is a global e-commerce retailer specializing in premium consumer electronics and accessories. Since launching in late 2018, we've established market presence by providing our global customer base with an intuitive, secure, and efficient online shopping experience through our website and mobile app and a curated catalog of products from top brands like Apple, Samsung, and ThinkPad. Our success is fueled by sophisticated data analytics, targeted marketing strategies, SEO optimization, and strategic affiliate partnerships.
+Tech-E-Suite Electronics is a global e-commerce retailer specializing in premium consumer electronics and accessories. Since launching in late 2018, we've established market presence by providing our global customer base with an intuitive, secure, and efficient online shopping experience through our website and mobile app. We offer a carefully curated selection of products from top brands like Apple, Samsung, and ThinkPad. Our success is fueled by sophisticated data analytics, targeted marketing strategies, SEO optimization, and strategic affiliate partnerships.
 
 ## Stakeholder Request
 The leadership team requested this analysis, seeking insights into 2019-2022 key sales and performance trends, to support strategic discussions at an upcoming company-wide town hall. Specifically, this analysis covers:
 - **Revenue and growth trends**: Evaluating yearly and monthly trends in revenue, average order value (AOV), and order volume.
 - **Loyalty program evaluation**: Assessing loyalty program adoption, revenue contribution, and performance impacts across the review period and particularly during the recent company downturn.
 - **Refunds and product performance**: Analyzing refund rates and AOV across products, with a specific focus on Apple products.
+
+This analysis will empower Tech-E-Suite to accurately forecast future sales and revenue by identifying key seasonal patterns, product-specific refund issues, and loyalty customer behaviors. Additionally, the insights and recommendations provided will enable targeted improvements in marketing strategies, operational processes, and product management, ultimately driving increased customer satisfaction and profitability. This analysis will provide data-driven insights to inform strategic decisions, identify areas requiring immediate attention, and enable focused improvements across marketing, operations, and product management to enhance performance and profitability.
+
 
 # Executive Summary: Ecommerce Performance Analysis (2019-2022)
 ## Overview of Findings
@@ -30,8 +33,9 @@ From  2019 to 2022, Tech-E-Suite averaged approximately **7M annually** from **2
 - **Low Months**: **October and February** regularly saw lower sales. **October 2022** was particularly weak, with significant YoY declines (**Revenue: $178K, -72% YoY; Orders: 825, down from 2.5K YoY; AOV: $216**). This pronounced decline represents an unusual deviation from expected seasonal patterns that warrants further investigation.
 
 ## Loyalty Program Evaluation
-Initially comprising just **12% of users and orders in 2019**, loyalty adoption grew significantly surpassing non-loyalty share by 2021 (**56% loyalty vs. 44% non-loyalty**). During the peak-pandemic growth of 2020, loyalty customers contributed substantially (**29% of revenue, 38% of orders**), **becoming essential to revenue stability**. In subsequent downturn periods (particularly 2022), loyalty members showed resilience, consistently accounting for a greater proportion of total revenue (**55%**) and orders (**52%**) compared to non-loyalty members. However, throughout the analysis period, loyalty customers averaged slightly lower AOVs (**$240**) compared to non-loyalty (**$275**). Nonetheless, the steady revenue stream provided by loyalty customers, especially during challenging market conditions, validates continued strategic investment in the loyalty program.
-> Add table with monthly values including AOV and refunds for a better comparison.
+Initially comprising just 12% of revenue and orders in 2019, the loyalty program significantly increased its adoption, surpassing non-loyalty share by 2021 (55% loyalty vs. 45% non-loyalty orders; 53% vs. 47% revenue). During peak-pandemic conditions (2020), loyalty members notably boosted their contribution (29% revenue, 38% orders), becoming critical to revenue stability.
+While loyalty average order value (AOV) over the full period ($240) trailed non-loyalty ($275), recent data indicates notable improvement. By 2022, loyalty members were spending, on average, $30 more per order than non-loyalty customers ($245 loyalty vs. $214 non-loyalty). Loyalty customers sustained this higher monthly AOV consistently from April 2021 through September 2022.
+In the challenging market conditions of 2022, loyalty customers demonstrated resilience, consistently representing the majority share of revenue (55%) and orders (52%). The upward trend in loyalty AOV, coupled with robust order volume, indicates increased profitability and validates ongoing strategic investment in strengthening and expanding the loyalty program.
 
 ## Refund Impact
 Refunds represented **5% of total orders** (~ 5K orders) and **8% of total revenue** (~ $2M) from 2019 to 2022. Refund rates peaked significantly in 2020 (**9% orders, 13% revenue**), due the substantial pandemic-driven sales surge, before stabilizing in 2021. Notably, zero refunds were reported for 2022, indicating possible data collection or operational gaps requiring investigation.
@@ -60,4 +64,13 @@ Given these insights, there is an opportunity to reassess product-specific custo
 - Develop targeted marketing and educational campaigns around high-refund-volume products (**Apple AirPods, Gaming Monitor**) to clearly set customer expectations and improve user satisfaction.
   
 **Cross-functional Recommendation**:
-- Conduct a detailed, cross-team investigation into October 2022's substantial performance drop, evaluating product-level sales, regional issues, and marketing effectiveness aiming to identify and mitigate risks ahead of any future challenging periods. 
+- Conduct a detailed, cross-team investigation into October 2022's substantial performance drop, evaluating product-level sales, regional issues, and marketing effectiveness aiming to identify and mitigate risks ahead of any future challenging periods.
+
+**Marketing & Product**:
+Deep-dive analysis into Q4 2022’s sales dip (October) to inform future marketing/product strategies.
+
+**Data Analytics & Operations**: 
+Address 2022’s refund data anomaly promptly to ensure accurate reporting and informed decision-making.
+
+**Customer Strategy Teams**: 
+Utilize loyalty program insights to sustain and amplify positive AOV trends through strategic retention and incentivization initiatives.
