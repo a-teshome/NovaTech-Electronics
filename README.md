@@ -1,7 +1,6 @@
-# Executive Summary: Ecommerce Performance Analysis (2019-2022)
+# Tech-E-Suite Ecommerce Performance Analysis (2019-2022)
 <img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/f24bb623-c9a7-4f60-b225-c4decda88e41">
 
-## Project Overview
 ### Company Background
 Tech-E-Suite Electronics is a global e-commerce retailer specializing in premium consumer electronics and accessories. Since launching in late 2018, we've established market presence by providing our global customer base with an intuitive, secure, and efficient online shopping experience through our website and mobile app. We offer a carefully curated selection of products from top brands like Apple, Samsung, and ThinkPad. Our success is fueled by sophisticated data analytics, targeted marketing strategies, SEO optimization, and strategic affiliate partnerships.
 
@@ -13,6 +12,7 @@ The leadership team requested this analysis, seeking insights into 2019-2022 key
 
 This analysis will empower Tech-E-Suite to accurately forecast future sales and revenue by identifying key seasonal patterns, product-specific refund issues, and loyalty customer behaviors. Additionally, the insights and recommendations provided will enable targeted improvements in marketing strategies, operational processes, and product management, ultimately driving increased customer satisfaction and profitability. This analysis will provide data-driven insights to inform strategic decisions, identify areas requiring immediate attention, and enable focused improvements across marketing, operations, and product management to enhance performance and profitability.
 
+# Executive Summary
 ## High Level Insights
 From 2019 to 2022, Tech-E-Suite generated **$28M in total revenue** from **over 108K orders**, maintaining an **average AOV of $260**. The review period featured significant market-driven fluctuations, especially around the pandemic-driven online shopping surge in 2020, which significantly boosted sales and drove unprecedented annual performance, followed by market normalization by 2022. 
 Our loyalty program adoption steadily increased, becoming critical to revenue stabilization, though average loyalty AOV remained lower than non-loyalty. Refund analysis revealed significant impacts from Apple products, representing more than half of total refunded revenue and volume, highlighting an opportunity to improve satisfaction and reduce returns through targeted initiatives. Refunds peaked notably in 2020 amid heightened pandemic demand, and later stabilize. Of note, the absence of refund data for 2022 suggests data recording gaps requirng investigation. 
@@ -43,6 +43,9 @@ Refunds represented **5% of total orders** (~ 5K orders) and **8% of total reven
 - **Highest Refund Rate**: High-value laptops (**MacBook Air, ThinkPad**) consistently had the highest refund rates (**~12%**).
 - **Highest Refund Volume**: Popular products (**Apple AirPods, 4K Gaming Monitor**) represented the majority of refund volume (**49% and 27% of total refunds**, respectively), likely due to their high overall sales.
 - **Highest Refund Value**: High-priced items (**MacBook Air, 4K Gaming Monitor**) significantly impacted redunded revenue (**33% and 28% of total refunded revenue**, respectively).
+> Refund rates were relatively stable across most years, except for 2022, which showed an anomalously low refund rate of 0%.
+This is likely due to data incompleteness or timing gaps, as refunds for 2022 orders may have occurred after the data cutoff or are not yet recorded.
+As a result, the 2022 refund rate should be interpreted with caution and may not reflect the true long-term return behavior for that cohort.
 
 #### Apple Products Highlight:
 Apple products (**MacBook Air, Apple AirPods**, and **Apple iPhone**) significantly impacted refunds, collectively accounting for **53% of total refunded revenue** and **58% of refunded orders** from 2019-2022:
