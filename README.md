@@ -32,12 +32,12 @@ From  2019 to 2022, Tech-E-Suite averaged approximately **7M annually** from **2
 - **Peak Months**: Historically, **December** consistently had the highest monthly sales performance each year—most notably in **December 2020 (Revenue: $1.25M, Orders: 4K, AOV: $311)**. However, there was a notable shift in 2022, when **January** emerged as the top-performing month (**Revenue: $705K, Orders: 3K**), reflecting evolving consumer purchasing behaviors.
 - **Low Months**: **October and February** regularly saw lower sales. **October 2022** was particularly weak, with significant YoY declines (**Revenue: $178K, -72% YoY; Orders: 825, down from 2.5K YoY; AOV: $216**). This pronounced decline represents an unusual deviation from expected seasonal patterns that warrants further investigation.
 
-## Loyalty Program Evaluation
+## 2. Loyalty Program Evaluation
 Initially comprising just 12% of revenue and orders in 2019, the loyalty program significantly increased its adoption, surpassing non-loyalty share by 2021 (55% loyalty vs. 45% non-loyalty orders; 53% vs. 47% revenue). During peak-pandemic conditions (2020), loyalty members notably boosted their contribution (29% revenue, 38% orders), becoming critical to revenue stability.
 While loyalty average order value (AOV) over the full period ($240) trailed non-loyalty ($275), recent data indicates notable improvement. By 2022, loyalty members were spending, on average, $30 more per order than non-loyalty customers ($245 loyalty vs. $214 non-loyalty). Loyalty customers sustained this higher monthly AOV consistently from April 2021 through September 2022.
 In the challenging market conditions of 2022, loyalty customers demonstrated resilience, consistently representing the majority share of revenue (55%) and orders (52%). The upward trend in loyalty AOV, coupled with robust order volume, indicates increased profitability and validates ongoing strategic investment in strengthening and expanding the loyalty program.
 
-## Refund Impact
+## 3. Refund Impact
 Refunds represented **5% of total orders** (~ 5K orders) and **8% of total revenue** (~ $2M) from 2019 to 2022. Refund rates peaked significantly in 2020 (**9% orders, 13% revenue**), due the substantial pandemic-driven sales surge, before stabilizing in 2021. Notably, zero refunds were reported for 2022, indicating possible data collection or operational gaps requiring investigation.
 ### By Product
 - **Highest Refund Rate**: High-value laptops (**MacBook Air, ThinkPad**) consistently had the highest refund rates (**~12%**).
