@@ -20,7 +20,8 @@ Overall, the analysis highlights Tech-E-Suite's adaptability to market changes, 
 
 > This comprehensive analysis enables informed decision-making by clearly illustrating revenue trends, loyalty program dynamics, product refund patterns, and pinpointing areas for operational and strategic improvements.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/ac80a349-b741-43c2-9eda-9bc147dab9b9" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/54877776-6a9b-4671-9cf4-a0061902f19a" />
+
 
 # Deep-Dive Insights
 ## 1. Sales Trends & Growth Rates
