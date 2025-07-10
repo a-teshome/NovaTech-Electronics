@@ -32,48 +32,38 @@ From  2019 to 2022, Tech-E-Suite averaged approximately **7M annually** from **2
 - **Peak Months**: Historically, **December** consistently had the highest monthly sales performance each year—most notably in **December 2020 (Revenue: $1.25M, Orders: 4K, AOV: $311)**. However, there was a notable shift in 2022, when **January** emerged as the top-performing month (**Revenue: $705K, Orders: 3K**), reflecting evolving consumer purchasing behaviors.
 - **Low Months**: **October and February** regularly saw lower sales. **October 2022** was particularly weak, with significant YoY declines (**Revenue: $178K, -72% YoY; Orders: 825, down from 2.5K YoY; AOV: $216**). This pronounced decline represents an unusual deviation from expected seasonal patterns that warrants further investigation.
 
-### 2. Loyalty Program Evaluation
-Initially comprising just 12% of revenue and orders in 2019, the loyalty program significantly increased its adoption, surpassing non-loyalty share by 2021 (55% loyalty vs. 45% non-loyalty orders; 53% vs. 47% revenue). During peak-pandemic conditions (2020), loyalty members notably boosted their contribution (29% revenue, 38% orders), becoming critical to revenue stability.
-While loyalty average order value (AOV) over the full period ($240) trailed non-loyalty ($275), recent data indicates notable improvement. By 2022, loyalty members were spending, on average, $30 more per order than non-loyalty customers ($245 loyalty vs. $214 non-loyalty). Loyalty customers sustained this higher monthly AOV consistently from April 2021 through September 2022.
-In the challenging market conditions of 2022, loyalty customers demonstrated resilience, consistently representing the majority share of revenue (55%) and orders (52%). The upward trend in loyalty AOV, coupled with robust order volume, indicates increased profitability and validates ongoing strategic investment in strengthening and expanding the loyalty program.
+### 2. Loyalty Program Performance
+Initially accounting for just **12% of revenue and orders in 2019**, loyalty program adoption accelerated rapidly. By **2021**, loyalty orders and revenue had surpassed non-loyalty, reaching **55% of orders** and **53% of revenue**, respectively. During the peak pandemic year (**2020**), loyalty customers became critical to revenue stability, contributing **29% of revenue** and **38% of orders**.
+While the average order value (**AOV**) for loyalty customers trailed non-loyalty customers from **2019 to 2022** — **$240** vs. **$275**, respectively — a year-by-year view reveals a promising shift. By **2022**, loyalty AOV had **surpassed** non-loyalty, with loyalty customers spending an average of **$30 more per order** (**$245** vs. **$214**). This higher monthly AOV was sustained **from April 2021 through September 2022**.
+Amid **2022’s market normalization** following pandemic-driven surges, loyalty customers continued to show **notable resilience**, representing a consistent majority share of both **revenue (55%)** and **orders (52%)**. These trends underscore the **strategic importance and profitability** of the loyalty program, supporting further investment in its continued growth.
 
-### 3. Refund Impact
-Refunds represented **5% of total orders** (~ 5K orders) and **8% of total revenue** (~ $2M) from 2019 to 2022. Refund rates peaked significantly in 2020 (**9% orders, 13% revenue**), due the substantial pandemic-driven sales surge, before stabilizing in 2021. Notably, zero refunds were reported for 2022, indicating possible data collection or operational gaps requiring investigation.
+### 3. Refund & Product Performance
+From **2019–2022**, refunds represented **5% of total orders** (5K orders) and accounted for **8% of total revenue** ($2M). Rates **peaked in 2020** (**9% of orders**, **13% of revenue**) amid heightened pandemic-driven demand, stabilizing in subsequent years. Notably, **zero refunds were reported in 2022**, suggesting possible data incompleteness or cut-off (refunds may not be recorded yet).
+
 #### By Product
-- **Highest Refund Rate**: High-value laptops (**MacBook Air, ThinkPad**) consistently had the highest refund rates (**~12%**).
-- **Highest Refund Volume**: Popular products (**Apple AirPods, 4K Gaming Monitor**) represented the majority of refund volume (**49% and 27% of total refunds**, respectively), likely due to their high overall sales.
-- **Highest Refund Value**: High-priced items (**MacBook Air, 4K Gaming Monitor**) significantly impacted redunded revenue (**33% and 28% of total refunded revenue**, respectively).
-> Refund rates were relatively stable across most years, except for 2022, which showed an anomalously low refund rate of 0%.
-This is likely due to data incompleteness or timing gaps, as refunds for 2022 orders may have occurred after the data cutoff or are not yet recorded.
-As a result, the 2022 refund rate should be interpreted with caution and may not reflect the true long-term return behavior for that cohort.
+- **Highest Refund Rates**: High-value laptops (**MacBook Air, ThinkPad**) consistently saw elevated refund rates (~**12%**).
+- **Highest Refund Volumes**: Best-sellers (**Apple AirPods, 27In 4K Gaming Monitor**) contributed substantially to total refund volumes (**49%** and **27%**, respectively), likely due to their high sales.
+- **Highest Refund Values**: Higher-priced items (**MacBook Air, 4K Gaming Monitor**) significantly impacted refunded revenue (**33%** and **28%**, respectively).
 
-#### Apple Products Highlight:
-Apple products (**MacBook Air, Apple AirPods**, and **Apple iPhone**) significantly impacted refunds, collectively accounting for **53% of total refunded revenue** and **58% of refunded orders** from 2019-2022:
-- **AirPods**: Generated substantial volume (**~48K units sold**) with lower AOVs (**$160**). Refund volumes (**~2,600 refunds, 5.4% refund rate**) exceeded company average.
-- **MacBook Air laptops**: Offered significantly higher AOVs (**~$1,588**) but also had a notably higher refund rate (**11%**).
-- **Apple iPhones**: Sold in lower volumes (**~288 units**) but had high AOVs (**$741**) and low refund rates (**~7.6%**)
-Given these insights, there is an opportunity to reassess product-specific customer satisfaction, return policies, and quality control processes, particularly for higher-value items.
+#### Apple Products Insights
+Apple products (**MacBook Air, AirPods, iPhone**) collectively comprised **53% of refunded revenue** and **58% of refunded orders** from 2019–2022:
+- **AirPods**: High sales volume (~**48K units sold**), lower AOV (**$160**), and above-average refund rate (**5.4%**).
+- **MacBook Air**: High-value product (**$1,588 average AOV**) with significant refund rate (**11%**).
+- **iPhone**: Lower volume sales (**288 units**), high AOV (**$741**), moderate refund rate (**7.6%**).
+These insights highlight opportunities to **reassess quality control**, **customer communication**, and **return policies**, especially for higher-value items.
 
-## Strategic Recommendations
-**Product Team**:
-- Investigate refund drivers and customer dissatisfaction for high refund-rate products (**MacBook Air, ThinkPad laptops**).
-  
-**Operations Team**:
-- Conduct audits on refund-data collection and reporting processes to determine reasons behing zero-refund records in 2022.
-- Streamline returns handling and customer interaction procedures, especially during peak demand periods, to proactively reduce refund volume and rates.
-  
-**Marketing Team**:
-- Strategically enhance loyalty programs to incentivize higher AOVs among loyalty customers through focused product bundles and exclusive promotions.
-- Develop targeted marketing and educational campaigns around high-refund-volume products (**Apple AirPods, Gaming Monitor**) to clearly set customer expectations and improve user satisfaction.
-  
-**Cross-functional Recommendation**:
-- Conduct a detailed, cross-team investigation into October 2022's substantial performance drop, evaluating product-level sales, regional issues, and marketing effectiveness aiming to identify and mitigate risks ahead of any future challenging periods.
+## Recommendations
+**Product Team**
+- Conduct focused analyses to identify and address key drivers of high refund rates for laptops.
 
-**Marketing & Product**:
-Deep-dive analysis into Q4 2022’s sales dip (October) to inform future marketing/product strategies.
+**Operations Team**
+- Investigate the absence of refund data in 2022 to uncover and resolve potential data collection or reporting issues.
+- Streamline returns procedures during high-demand periods to proactively manage refund rates.
 
-**Data Analytics & Operations**: 
-Address 2022’s refund data anomaly promptly to ensure accurate reporting and informed decision-making.
+**Marketing Team**
+- Strengthen loyalty program initiatives to incentivize higher spending and repeat purchases through tailored product bundles and targeted promotions.
+- Launch informative, expectation-setting campaigns for high-refund-volume products (i.e, Apple AirPods, Gaming Monitor) to improve customer satisfaction.
 
-**Customer Strategy Teams**: 
-Utilize loyalty program insights to sustain and amplify positive AOV trends through strategic retention and incentivization initiatives.
+**Cross-Functional Initiatives**
+- Investigate the sharp sales decline in October 2022 (Revenue:-55% MoM &-72% Oct YoY, Orders: -47% MoM, -67% Oct YoY) analyzing product-level performance, regional sales dynamics, and marketing campaign effectiveness to identify and mitigate future performance risks.
+
