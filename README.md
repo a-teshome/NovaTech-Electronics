@@ -31,11 +31,18 @@ From  2019 to 2022, Tech-E-Suite averaged approximately **7M annually** from **2
 ##### **Seasonality**
 - **Peak Months**: Historically, **December** consistently had the highest monthly sales performance each year—most notably in **December 2020 (Revenue: $1.25M, Orders: 4K, AOV: $311)**. However, there was a notable shift in 2022, when **January** emerged as the top-performing month (**Revenue: $705K, Orders: 3K**), reflecting evolving consumer purchasing behaviors.
 - **Low Months**: **October and February** regularly saw lower sales. **October 2022** was particularly weak, with significant YoY declines (**Revenue: $178K, -72% YoY; Orders: 825, down from 2.5K YoY; AOV: $216**). This pronounced decline represents an unusual deviation from expected seasonal patterns that warrants further investigation.
+> Seasonality
+<img width="540" height="510" alt="image" src="https://github.com/user-attachments/assets/30295e24-dcb7-47d0-b914-3a1637c56e07" />
+
 
 ### 2. Loyalty Program Performance
 Initially accounting for just **12% of revenue and orders in 2019**, loyalty program adoption accelerated rapidly. By **2021**, loyalty orders and revenue had surpassed non-loyalty, reaching **55% of orders** and **53% of revenue**, respectively. During the peak pandemic year (**2020**), loyalty customers became critical to revenue stability, contributing **29% of revenue** and **38% of orders**.
 While the average order value (**AOV**) for loyalty customers trailed non-loyalty customers from **2019 to 2022** — **$240** vs. **$275**, respectively — a year-by-year view reveals a promising shift. By **2022**, loyalty AOV had **surpassed** non-loyalty, with loyalty customers spending an average of **$30 more per order** (**$245** vs. **$214**). This higher monthly AOV was sustained **from April 2021 through September 2022**.
 Amid **2022’s market normalization** following pandemic-driven surges, loyalty customers continued to show **notable resilience**, representing a consistent majority share of both **revenue (55%)** and **orders (52%)**. These trends underscore the **strategic importance and profitability** of the loyalty program, supporting further investment in its continued growth.
+
+> Cumulative sales over time (loyalty vs non-loyalty)
+<img width="566" height="543" alt="image" src="https://github.com/user-attachments/assets/646d7a12-2e26-4657-ab1b-a9d03bb0e319" />
+
 
 ### 3. Refund & Product Performance
 From **2019–2022**, refunds represented **5% of total orders** (5K orders) and accounted for **8% of total revenue** ($2M). Rates **peaked in 2020** (**9% of orders**, **13% of revenue**) amid heightened pandemic-driven demand, stabilizing in subsequent years. Notably, **zero refunds were reported in 2022**, suggesting possible data incompleteness or cut-off (refunds may not be recorded yet).
@@ -51,6 +58,11 @@ Apple products (**MacBook Air, AirPods, iPhone**) collectively comprised **53% o
 - **MacBook Air**: High-value product (**$1,588 average AOV**) with significant refund rate (**11%**).
 - **iPhone**: Lower volume sales (**288 units**), high AOV (**$741**), moderate refund rate (**7.6%**).
 These insights highlight opportunities to **reassess quality control**, **customer communication**, and **return policies**, especially for higher-value items.
+
+> products share of sales across time
+<img width="535" height="483" alt="image" src="https://github.com/user-attachments/assets/f4b69a0b-2ba8-483a-9a14-094a682d1a33" />
+
+>> Check when refund/refund rates are highest (eg. common months?) to align with recommendation for operations team.
 
 ## Recommendations
 **Product Team**
