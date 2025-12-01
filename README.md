@@ -1,18 +1,22 @@
-# Tech-E-Suite Ecommerce Performance Analysis (2019-2022)
+# TECH-E-SUITE ECOMMERCE PERFORMANCE ANALYSIS (2019-2022)
 <img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/f24bb623-c9a7-4f60-b225-c4decda88e41">
 
 ### Company Background
-Tech-E-Suite Electronics is a global e-commerce retailer specializing in premium consumer electronics and accessories. Since launching in late 2018, we've established market presence by providing our global customer base with an intuitive, secure, and efficient online shopping experience through our website and mobile app. We offer a carefully curated selection of products from top brands like Apple, Samsung, and ThinkPad. Our success is fueled by sophisticated data analytics, targeted marketing strategies, SEO optimization, and strategic affiliate partnerships.
+Tech-E-Suite Electronics is a global e-commerce retailer specializing in premium consumer electronics and accessories and sells via website and mobile app since late 2018. Our catalog is built around leading brands like Apple, Samsung, and ThinkPad and growth is driven by digital marketing, SEO, affiliates and analytics-led decision-making.
 
 ### Stakeholder Request
-The leadership team requested this analysis, seeking insights into 2019-2022 key sales and performance trends, to support strategic discussions at an upcoming company-wide town hall. Specifically, this analysis covers:
-- **Revenue and growth trends**: Evaluating yearly and monthly trends in revenue, average order value (AOV), and order volume.
-- **Loyalty program evaluation**: Assessing loyalty program adoption, revenue contribution, and performance impacts across the review period and particularly during the recent company downturn.
-- **Refunds and product performance**: Analyzing refund rates and AOV across products, with a specific focus on Apple products.
-
-This analysis will empower Tech-E-Suite to accurately forecast future sales and revenue by identifying key seasonal patterns, product-specific refund issues, and loyalty customer behaviors. Additionally, the insights and recommendations provided will enable targeted improvements in marketing strategies, operational processes, and product management, ultimately driving increased customer satisfaction and profitability. This analysis will provide data-driven insights to inform strategic decisions, identify areas requiring immediate attention, and enable focused improvements across marketing, operations, and product management to enhance performance and profitability.
+The leadership team requested a structured view of sales performance from **2019 to 2022** to inform an upcoming company-wide town hall, with focus on:
+- **Revenue and growth trends:** yearly and monthly trends in revenue, order volume, and average order value (AOV).
+- **Loyalty program evaluation:** adoption, revenue contribution, and impact, especially during the recent downturn.
+- **Refunds and product performance:** refund rates and AOV across products, with focus on **Apple** products. 
 
 # Executive Summary
+From 2019 and 2022, Tech-E-Suite electronics moved from rapid expansion to a pronounced slowdown. Orders increased from 16.8K in 2019 to a **peak of 35.9K in 2021**, before falling to 21.6K in 2022. Revenue followed a similar arc, rising from $3.87M (2019), **peaking to $10.2M (2020)**, softening to $9.13M (2021), and then dropping to $4.96M (2022). Across the four years, overall **AOV** averaged around **$260,** with yearly AOV ranging from $230 to $300.
+
+The **loyalty program** scaled rapidly and is now central to the business. Loyalty customers grew from **12% of orders in 2019** to **over 50% of orders and revenue by 2021-2022.** In 2022, they delivered a **higher AOV (~$245)** than non-loyalty customers (~$214), helping cushion the downturn.
+
+Product performance is mixed. **Apple products** drive roughly **45% of orders** but around **29% of revenue**, with **lower AOV (around $163)** and slightly higher refund rates than non-Apple products. High-end laptops (MacBook Air, ThinkPad) are commercially critical but carry **double-digit refund rates.** Regionally, **North America** leads in revenue, while **APAC** shows the highest AOV, indicating targeted regional opportunities.
+
 ## High Level Insights
 From 2019 to 2022, Tech-E-Suite generated **$28M in total revenue** from **over 108K orders**, maintaining an **average AOV of $260**. The review period featured significant market-driven fluctuations, especially around the pandemic-driven online shopping surge in 2020, which significantly boosted sales and drove unprecedented annual performance, followed by market normalization by 2022. 
 Our loyalty program adoption steadily increased, becoming critical to revenue stabilization, though average loyalty AOV remained lower than non-loyalty. Refund analysis revealed significant impacts from Apple products, representing more than half of total refunded revenue and volume, highlighting an opportunity to improve satisfaction and reduce returns through targeted initiatives. Refunds peaked notably in 2020 amid heightened pandemic demand, and later stabilize. Of note, the absence of refund data for 2022 suggests data recording gaps requirng investigation. 
