@@ -18,13 +18,62 @@ The **loyalty program** scaled rapidly and is now central to the business. Loyal
 Product performance is mixed. **Apple products** drive roughly **45% of orders** but around **29% of revenue**, with **lower AOV (around $163)** and slightly higher refund rates than non-Apple products. High-end laptops (MacBook Air, ThinkPad) are commercially critical but carry **double-digit refund rates.** Regionally, **North America** leads in revenue, while **APAC** shows the highest AOV, indicating targeted regional opportunities.
 
 ## High Level Insights
-From 2019 to 2022, Tech-E-Suite generated **$28M in total revenue** from **over 108K orders**, maintaining an **average AOV of $260**. The review period featured significant market-driven fluctuations, especially around the pandemic-driven online shopping surge in 2020, which significantly boosted sales and drove unprecedented annual performance, followed by market normalization by 2022. 
-Our loyalty program adoption steadily increased, becoming critical to revenue stabilization, though average loyalty AOV remained lower than non-loyalty. Refund analysis revealed significant impacts from Apple products, representing more than half of total refunded revenue and volume, highlighting an opportunity to improve satisfaction and reduce returns through targeted initiatives. Refunds peaked notably in 2020 amid heightened pandemic demand, and later stabilize. Of note, the absence of refund data for 2022 suggests data recording gaps requirng investigation. 
-Overall, the analysis highlights Tech-E-Suite's adaptability to market changes, underscoring targeted opportunities in loyalty initiatives, product management, operational enhancements, and strategic marketing.
+### 1. Overall Growth and Contraction (2019-2022)
+Over the four-year period, Tech-E-Suite processed **108K orders,** generating about **$28.1M in revenue,** with an overall **AOV of ~$260** and an **overall refund rate of ~5%.**
 
-> This comprehensive analysis enables informed decision-making by clearly illustrating revenue trends, loyalty program dynamics, product refund patterns, and pinpointing areas for operational and strategic improvements.
+Year by year, the business shows a classic "surge then normalize" pattern:
+- In **2019**, Tech-E-Suite generated **$3.87M** from **16.8K orders** with an AOV of around **$230** and a **refund rate near 5.7%.**
+- In **2020,** revenue jumped to **$10.2M (+163% YoY)** and orders to **33.9K (+101% YoY)**, with **AOV peaking at ~$300** and a higher refund rate of **9.2%,** indicating aggressive growth with some quality or expectation strain.
+- In **2021,** orders climbed slightly to **35.9K,** but revenue declined to **$9.13M** and AOV slipped to about **$255,** suggesting more lower-ticket or discounted orders.
+- In **2022,** revenue dropped to **$4.96M (-46% YoY)** and orders fell to **21.6K (-40% YoY),** with AOV returning to about **$230,** effectively bringing the business back to near-2019 levels in both value and mix.
+
+### 2. Loyalty Program Scale and Role
+The loyalty program has evolved from a niche feature to a central driver of volume and revenue:
+- In **2019,** loyalty customers accounted for **12% of orders** and **11% of revenue.**
+- By **2020,** the program showed rapid adoption, with loyalty share rising to **38% of orders** and **29% of revenue.**
+- In **2021,** the business flipped into a loyalty-led model, with loyalty customers delivering **55% of orders** and **53% of revenue.**
+- In **2022,** during the downturn, loyalty still contributed **52% of orders** and **55% of revenue**, indicating resilience among members.
+
+### 3. Product Mix and Refund Risk
+Product performance is concentrated around a few core SKUs and brands:
+- **Apple** accounts for roughly **48.7K orders** (about **45% of volume**) and around **$8M in revenue** (about **29% of revenue**), with AOV around **$163** and a refund rate of about **5.5%.**
+- **Non-Apple products** collectively generate around **$20.2M** from roughly **59.4K orders,** with a much higher AOV of about **~$339** and a refund rate near **4.6%.**
+
+Within that mix, key products show distinct profiles:
+- The **27-inch 4K Gaming Monitor** delivers about **9.78M** from **23.2K orders,** with AOV around **$421** and a refund rate of **6.2%** making it a high-value, mid-risk hero product.
+- **Apple Airpods** generate around **$7.74M** from **48.4K orders,** with AOV around **$160** and a refund rate of **5.4%,** aligning with a high-volume, mid-ticket profile.
+- **MacBook Air** and **ThinkPad** laptops together generate about **$9.5M** from around **6.9K orders,** with AOV between **$1.1K** and **$1.6K** and refund rates between **11.4%** and **11.8%,** representing high revenue concentration with elevated return risk.
+- **Samsung charging cables** were a low-risk volume stabilizer, contributing about **0.44M** from **21.9K orders,**  with an AOV near **$20** and a very low refund rate of **1.3%.**
+
+### 4. Reach
+- **North America** leads with **50.7K orders** and **$13.3M** in revenue, with AOV of **$262.**
+- **EMEA** contributes **31.9K orders** and **$8.22M,** with AOV of **$258.**
+- **APAC** shows **13.1K orders** and **$3.65M,** but the highest AOV at **$279,** suggesting a premium skew.
+- **LATAM** remains smaller at **7.3K orders** and **$1.67M,** with AOV **$231**.
+> Make correction for **5K orders** not being mapped to regions due to missing regions for the countries.
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/54877776-6a9b-4671-9cf4-a0061902f19a" />
+
+
+## Deep-Dive Insights
+### 1. Sales Performance Trends
+At a monthly level, the revenue curve amplifies the annual picture:
+- During **2020,** revenue peaks in **December** at **$1.25M,** with **AOV of $311,** reflecting strong seasonal demand.
+- In **2021,** revenue remains relatively high but less extreme, consistent with "normalization" after a pandemic-driven bump.
+- In **2022,** revenue appears to decline over the year, falling from **$1.69M in Q1** to **$0.65M in Q4,** indicating a progressive slowdown in demand.
+
+This temporal trend suggests that 2020 shoud be treated as an **upside scenario**, 2021 as a **more stable reference**, and 2022 as a **stress-test for downside planning**.
+
+### 2. Loyalty Program Dynamics and Customer Value
+The loyalty program's journey from 2019 to 2020 can be summarized as "rapid adoption, mixed efficiency, strong resilience":
+- Early in the period, loyalty has **low penetration** and similar economics to non-loyalty customers. By 2020, loyalty drives more than a **third of orders.**
+- Across all four years, loyalty customers **spend slightly less per order** and exhibit **higher refund rates,** implying that loyalty benefits and targeting may be encouraging additional purchases, including some marginal or more experimental orders.
+- The key inflection is in **2022,** where loyalty customers **outperform in AOV ($245 vs $214)** and deliver **more than half of revenue** in a downturn, acting as a **stabilizing base** when acquisition or casual traffic weakens.
+
+From a strategic view, the program's lifetime value impact is likely positive but would benefit from **tighter targeting and a more refund-aware design.**
+
+### 3. Refund and Product Performance (with Apple Focus)
+
 
 ## Deep-Dive Insights
 ### 1. Sales Trends & Growth Rates
