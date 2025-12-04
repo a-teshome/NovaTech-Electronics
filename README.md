@@ -5,38 +5,34 @@
 Tech-E-Suite Electronics is a global e-commerce retailer specializing in premium consumer electronics and accessories, selling via website and mobile app since late 2018. Our catalog is centered on leading brands like Apple, Samsung, and ThinkPad and growth is driven by performance marketing, SEO, affiliate partnerships, and analytics-led optimization.
 
 ### Stakeholder Request
-Leadership requested a 2019-2022 performance review to support an upcoming company-wide town hall, with focus on:
-- **Revenue and growth trends:** yearly and monthly trends in revenue, order volume, and average order value (AOV).
+Leadership requested a 2019-2022 walkthrough of order volume and revenue trends for an upcoming company-wide town hall, focusing on:
+- **Revenue and growth trends:** overall, yearly, and monthly trends in revenue, order volume, and average order value (AOV).
 - **Loyalty program evaluation:** adoption, revenue contribution, and impact on performance, especially during the recent downturn.
-- **Refunds and product performance:** refund rates and AOV across products, with focus on **Apple** products. 
+- **Refunds and product performance:** refund rates and AOV across products, with a specific lens on **Apple** products. 
 
 # Executive Summary
-From **2019 through 2022**, Tech-E-Suite moved through three distinct phases: **initial scale-up**, a **pandemic-driven spike**, and a **post-pandemic correction**. Revenue grew from **$3.87M in 2019** to a **$10.2M peak in 2020 (+163% YoY)**, softened to **$9.13M in 2021 (-10% YoY)**, and then declined to **$4.96M in 2022 (-46% YoY)**. Order volume followed the same pattern, and AOV ranged from **$230 to $300** across the period, with an overall average of **$260**.
+From **2019 to 2022**, Tech-E-Suite processed **108K orders** and generated **$28M in revenue**, with an **overall AOV of $260**. During this time, the company moved through distinct phases. Revenue rose from **$3.87M in 2019** to a **$10.2M peak in 2020 (+163% YoY)**, softened to **$9.13M in 2021 (-10% YoY)**, and then declined to **$4.96M in 2022 (-46% YoY)**. Order volume followed the same pattern, and AOV ranged from **$230 to $300** across this period.
 
-The **loyalty program** transitioned from a niche feature to a **core driver of demand**. Loyalty’s share of orders rose from **12% of orders in 2019** to **over 50% of orders and revenue by 2021.** While **loyalty customers** showed slightly lower AOV and higher refund rates than non-loyalty overall, they were **higher value and more resilient in 2022**, contributing the **majority of revenue in a weak year**.
+The **loyalty program** transitioned from a niche feature to a **core driver of demand**. Loyalty’s share grew from **12% in 2019** to **over 50% of orders and revenue by 2021**, and sustained the same level through **2022**. While loyalty customers were initially lower-value than non-loyalty, their AOV rose steadily, and by 2022 loyalty AOV (**$245**) exceeded non-loyalty (**$214**), with loyalty members contributing the majority of revenue in a weak year.
 
-**Product performance** was concentrated in a small set of SKUs. **Mid-ticket hero products** such as **Apple AirPods** and **27-inch monitors** generated substantial revenue with **mid-single-digit refund rates**. **High-ticket laptops (Macbook Air, ThinkPad)** delivered significant top-line but had **double-digit refund rates** and therefore require tighter management. Regionally, **North America** dominated revenue, **APAC** showed the highest AOV, and some orders are not mapped to regions due **to country-code issues**.
+**Product performance** was concentrated in a small set of SKUs and brands. Apple products accounted for **half of order volume and revenue**, with slightly higher AOV and refund rates than non-Apple SKUs. **Mid-priced, high-performing products** such as **Apple AirPods** and **27-inch monitors** generated substantial revenue with **6-8% refund rates**, while **high-ticket laptops (MacBook Air, ThinkPad)** delivered significant top line but had **13–14% refund rates**. Regionally, **North America** was the core revenue and order volume region, while **APAC** showed the highest AOV and an opportunity for expansion. Across platforms, the **website** handled majority of transactions with high AOV and higher refund rates, while the mobile app grew in volume but remained focused on low-ticket purchases.
 
-## High Level Insights
-### 1. Business Trajectory Across the Pandemic Period
-Across **2019-2022**, Tech-E-Suite generated **$28.1M** from **108K orders**, with an **aggregate AOV of $260**.
-- A **pre-pandemic baseline in 2019** with modest scale and **AOV of $230**.
-- A **pronounced pandemic uplift in 2020**, with **revenue and orders more than doubling YoY** and **AOV peaking to $300**, consistent with sector-wide shifts to online electronics purchases.
-- A **normalization phase in 2021**, with slightly higher order volume but lower revenue and AOV, suggesting increased **discounting or mix shift*** to lower-priced items.
-- A **post-pandemic downturn in 2022** with materially lower revenue and volume compared to prior years.
+Overall, the data supports **continuing the loyalty program, leaning into high-performing seasons and mid-priced, high-performing products**, and **tightening controls around high-refund laptops and certain Apple SKUs**.
 
-### 2. Structural Role of Loyalty and Customer Segments
-Over the four-year window, the **loyalty program** evolves from a small contributor to a structural pillar:
-- Loyalty’s **share of orders and revenue** moved from **low double digits in 2019** to a **clear majority by 2021-2022**.
-- Aggregated over 2019-2022, **loyalty customers** had slightly **lower AOV** and **higher refund rates** than non-loyalty, but they accounted for a **disproportionate share of revenue in 2022** and maintained relatively **higher AOV in the downturn year**.
 
-This indicates that loyalty customers behaved as a **more stable demand segment across cycles**, even if their per-order economics were somewhat less favorable on a purely transactional basis.
+<img width="5348" height="1515" alt="Revenue overview" src="https://github.com/user-attachments/assets/452e837f-0ec8-4296-9bfb-c67288997174" />
 
-### 3. Product, Brand, and Regional Mix
-The portfolio is heavily skewed toward a **handful of products and brands**:
-- **Apple products** account for **45% of orders** but a smaller share of revenue due to **lower AOV**; **non-Apple products** drive fewer orders but **higher revenue per order**.
-- A small number of **mid-ticket products (AirPods, 27-inch monitors)** and **high-ticket laptops (Macbook Air, ThinkPad) explain the **majority of revenue**.
-- **North America** is the main revenue region then **EMEA**; **APAC** has the **highest AOV**; **LATAM** is smaller and more value-oriented. A non-trivial volume of orders is **not mapped to a region** due to **country-code issues.**
+
+# Deep-Dive Insights
+## 1. Sales trends and growth rates
+- In **2019**, Tech-E-Suite generated **$3.87M** from **16.8K orders** at an **AOV of $230**. Monthly revenue generally ranged between **$250K and $460K**, 
+> with no extreme month-over-month swings, and served as the pre-pandemic baseline.
+- In **2020**, revenue surged to **$10.15M (+163% YoY)** on **33.8K orders (+101% YoY)**, and **AOV increased to $300 (+30% vs 2019)**. Revenue rose sharply in **March 2020 (~$720k, +50% MoM)** and remained above the 2019–2022 monthly average for most of the year, **peaking at ~$1.25M in Dec-2020**, more than 3x a typical 2019 month.
+- In **2021**, order volume increased further to **35.9K (+6% YoY)**, but revenue declined to **$9.13M (−10% YoY)** and **AOV dropped to $255 (−15% vs 2020)**, as customer mix shifted toward lower-priced items.
+> check to see if fewer laptops were bought during this time
+- In **2022**, both revenue and order volume declined to **$4.96M (−46% YoY)** and **21.6K (−40% YoY)**, respectively, with **AOV** returning back to 2019 levels **($230**). Revenue trended downward across 2022; Oct-2022 was the lowest revenue month ($178K, -55% MoM) across the four-year period.
+
+2020 represented an upside scenario, 2022 a downside scenario, and 2021 the most representative baseline for forward planning.
 
 ## Deep-Dive Insights
 ### 1. Time-Series Performance
