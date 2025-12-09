@@ -51,8 +51,24 @@ Overall, the findings support **continuing the loyalty program, leaning into hig
 - From mid-2021 onward, loyalty AOV trended above non-loyalty AOV and ended **2022** at **$245 vs $214**, even as overall demand declined.
 
 ## 3. Product performance
+> Four SKUs drive the business: AirPods and monitors provide balanced growth, while laptops generate very high revenue per order but nearly double the average refund rate.
+### Apple focus
+
+
+### Core SKUs
+- **Most popular SKU**: **Apple AirPods** with **48.4K orders (45% of orders)** and **$7.74M revenue (AOV $160, refund rate 5.4%)**.
+- **Top revenue driver**: **27-in Monitor**, which generated **$9.85M (35% of total revenue)** from **23.4K orders (AOV $421, refund rate 6.2%)**.
+- Laptops (**MacBook Air** and **ThinkPad**) were critical revenue drivers, contributing **$9.5M+ revenue (35% of total revenue)** but had high refund **rates (13-14%)**, almost **double the overall average**.
+- Combined, these four SKUs accounted for **$27.1M (96% of total revenue)**.
+
+### Opportunities
+- The **Samsung Charging Cable Pack** was highlighted as an ideal add-on in bundles with laptops due to its **high volume** (**21.9K orders --> 20% of all orders**) and **low risk** (**MacBook Air** and **ThinkPad**).
+- All **Apple iPhone** orders are from **non-loyalty customers**, making them a high-value, underpenetrated opportunity for marketing and loyalty.
 
 At the brand level, **Apple products** generated **$14.3M in revenue (51%)** from **52.7K orders (49%)**, with **AOV $271** but with higher return risk **(refund rate 7.2%)**. **Non-Apple products** accounted for **55.5K orders (51%)** and **$13.9M revenue (49%)**, with an **AOV $250** and a **refund rate of 5.2%**, making them lower-risk on returns compared to Apple.
+
+### Apple Focus
+
 
 
 <img width="882" height="163" alt="Products share" src="https://github.com/user-attachments/assets/b3471f46-0836-4bec-9cf2-c2d55a6b4fdd" />
