@@ -51,31 +51,27 @@ Overall, the findings support **continuing the loyalty program, leaning into hig
 - From mid-2021 onward, loyalty AOV trended above non-loyalty AOV and ended **2022** at **$245 vs $214**, even as overall demand declined.
 
 ## 3. Product performance
-> Four SKUs drive the business: AirPods and monitors provide balanced growth, while laptops generate very high revenue per order but nearly double the average refund rate.
-### Apple focus
+> Four SKUs largely drive the business: AirPods and Monitors provide balanced growth, while laptops generate very high revenue per order but have nearly double the average refund rate.
 
+<img width="650" height="300" alt="image" src="https://github.com/user-attachments/assets/861b8026-8409-44df-ae1b-64b73d2e742c" />
+
+### Apple focus
+- **Apple products** generated **$14.3M (51% of revenue)** from **52.7K orders (49% of orders)**, making Apple the largest driver of both revenue and volume, albeit at a high risk with **Apple refund rate of 7.2%** vs **5.2% for non-Apple products**.
 
 ### Core SKUs
 - **Most popular SKU**: **Apple AirPods** with **48.4K orders (45% of orders)** and **$7.74M revenue (AOV $160, refund rate 5.4%)**.
-- **Top revenue driver**: **27-in Monitor**, which generated **$9.85M (35% of total revenue)** from **23.4K orders (AOV $421, refund rate 6.2%)**.
-- Laptops (**MacBook Air** and **ThinkPad**) were critical revenue drivers, contributing **$9.5M+ revenue (35% of total revenue)** but had high refund **rates (13-14%)**, almost **double the overall average**.
-- Combined, these four SKUs accounted for **$27.1M (96% of total revenue)**.
+- **Top revenue driver**: **Monitors**, which generated **$9.85M (35% of total revenue)** from **23.4K orders (AOV $421, refund rate 6.2%)**.
+- **High-value, high-risk laptops (MacBook Air and ThinkPad**) were critical revenue drivers, contributing **35% of total revenue ($9.5M)** but were high risk, with **refund rates (13-14%)** almost **double the overall average**.
+- Combined, **AirPods, Monitors, MacBook Air**, and **ThinkPad** accounted for **96% of total revenue (27.1M)**.
+
+<img width="948" height="161" alt="Product - Revenue share" src="https://github.com/user-attachments/assets/dc6022b9-cb1a-4de6-a4bf-ed6b54eaa7ba" />
 
 ### Opportunities
-- The **Samsung Charging Cable Pack** was highlighted as an ideal add-on in bundles with laptops due to its **high volume** (**21.9K orders --> 20% of all orders**) and **low risk** (**MacBook Air** and **ThinkPad**).
-- All **Apple iPhone** orders are from **non-loyalty customers**, making them a high-value, underpenetrated opportunity for marketing and loyalty.
-
-At the brand level, **Apple products** generated **$14.3M in revenue (51%)** from **52.7K orders (49%)**, with **AOV $271** but with higher return risk **(refund rate 7.2%)**. **Non-Apple products** accounted for **55.5K orders (51%)** and **$13.9M revenue (49%)**, with an **AOV $250** and a **refund rate of 5.2%**, making them lower-risk on returns compared to Apple.
-
-### Apple Focus
-
-
-
-<img width="882" height="163" alt="Products share" src="https://github.com/user-attachments/assets/b3471f46-0836-4bec-9cf2-c2d55a6b4fdd" />
-
-Within the catalog, a few SKUs drove most of the performance. The **27-in 4K monitor** was the top individual revenue driver **($9.85M revenue, 23.4K orders, AOV $421, refund rate of 7.7%)**. The laptops, **MacBook Air ($6.30M, 4K orders, AOV $1,590, refund rate 13%)** and **ThinkPad ($3.21M, 2.9K orders, AOV $1,100, refund rate 14%)**, were very high-value but had refund rates roughly **double the overall average**. **Apple AirPods ($7.74M, 48.4K orders, AOV $160, refund rate 6.7%)** were the most popular product, ideal for attach opportunities. Together, these 4 products accounted for **$27M (96%) in revenue**. Coincidentally, all **Apple iPhone** orders were made by **non-loyalty customers** and contributed **$213K (288 orders, AOV $741, refund rate 9%)**.
+- **Bundles and add-ons**: The **Samsung Charging Cable Pack** was a popular but low-value product, accounting for **20% of all orders** but generating only **2% of revenue**. It stood out as an ideal **low-risk (refund rate 1.7%)** add-on in bundles (e.g., with laptops) to raise AOV.
+- **Untapped iPhone potential**: Notably, only **non-loyalty customers** purchased **Apple iPhones**, suggesting a high-value **(AOV $741)** untapped potential for marketing and loyalty.
 
 ## 4. Reach
+> Texh-E-Suite sells worldwide, but revenue is heavily concentrated in North America and a small set of countries, with APAC standing out as a high-AOV region, where premium-focused tests make 
 Regionally, **North America** was the core market, with **$14.6M in revenue (52%)** from **56K orders**, with **AOV $260**. **APAC** generated **$3.65M** from **13.1K orders** but had the **highest AOV ($279**), suggesting a more premium mix and opportunity to test higher-end positioning. Four countries (US, GB, CA and JP) generated over 60% of total revenue.
 
 # Recommendations (by team)
