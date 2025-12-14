@@ -122,30 +122,6 @@ WITH order_count_cte AS (
   GROUP BY 1, 2
   ORDER BY 3 DESC)
 
-, ranking_cte AS (
-    SELECT *,
-      ROW_NUMBER() OVER (PARTITION BY region ORDER BY order_count DESC) AS ranking
-    FROM order_count_cte)
-
-  SELECT *
-  FROM ranking_cte
-  WHERE ranking = 1;
-
--- OR
-
-WITH order_count_cte AS (
-  SELECT
-    geo_lookup.region, 
-    CASE WHEN orders.product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE orders.product_name END AS cleaned_product_name,
-    COUNT(DISTINCT orders.id) AS order_count
-  FROM core.orders
-  LEFT JOIN core.customers
-    ON orders.customer_id = customers.id
-  LEFT JOIN core.geo_lookup 
-    ON customers.country_code = geo_lookup.country_code
-  GROUP BY 1, 2
-  ORDER BY 3 DESC)
-
   SELECT *,
     ROW_NUMBER() OVER (PARTITION BY region ORDER BY order_count DESC) AS ranking
   FROM order_count_cte
